@@ -3,7 +3,7 @@ The Heart Attack Prediction System is a machine learning-based application desig
 <b>Data Input:</b> Accepts health parameters including:Age, Sex, Cholesterol levels, Resting blood pressure, Maximum heart rate achieved, Exercise-induced angina,Fasting blood sugar levels,etc.<br>
 <b>Prediction:</b> Determines heart attack risk based on input data.<br>
 <b>Visualization:</b> Generates charts to help users understand health metrics.<br>
-<b>Explainability:<b> Highlights contributing factors for interpretability.<br>
+<b>Explainability:</b> Highlights contributing factors for interpretability.<br>
 <b>How It Works:</b><br>
 1. <b>Input Data: </b>Provide health data manually or via a dataset.<br>
 2. <b>Feature Extraction:</b>Extracts clinical features for analysis.<br>
